@@ -23,7 +23,7 @@ int main(void){
     int n; cin >> n;
     
     vector<int> ground;
-    ground.resize(1001,0);
+    ground.resize(10001,0);
     vector<platform> vec;
 
     for(int i = 0; i < n; i++){
