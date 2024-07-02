@@ -1,3 +1,10 @@
+/**
+ * Author: Ian Kristona
+ * Date: 6/13/2024
+ * Problem: Heart rate
+ * Link: https://open.kattis.com/problems/heartrate
+*/
+
 #include <iostream>
 
 using namespace std;
